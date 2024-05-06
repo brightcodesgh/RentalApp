@@ -1,0 +1,12 @@
+C:\Users\Bright\source\repos\RentalAppTutorial\bin\Debug\RentalAppTutorial.exe.config
+C:\Users\Bright\source\repos\RentalAppTutorial\bin\Debug\RentalAppTutorial.exe
+C:\Users\Bright\source\repos\RentalAppTutorial\bin\Debug\RentalAppTutorial.pdb
+C:\Users\Bright\source\repos\RentalAppTutorial\bin\Debug\RentalAppTutorial.xml
+C:\Users\Bright\source\repos\RentalAppTutorial\obj\Debug\RentalAppTutorial.vbproj.AssemblyReference.cache
+C:\Users\Bright\source\repos\RentalAppTutorial\obj\Debug\RentalAppTutorial.Form1.resources
+C:\Users\Bright\source\repos\RentalAppTutorial\obj\Debug\RentalAppTutorial.Resources.resources
+C:\Users\Bright\source\repos\RentalAppTutorial\obj\Debug\RentalAppTutorial.vbproj.GenerateResource.cache
+C:\Users\Bright\source\repos\RentalAppTutorial\obj\Debug\RentalAppTutorial.vbproj.CoreCompileInputs.cache
+C:\Users\Bright\source\repos\RentalAppTutorial\obj\Debug\RentalAppTutorial.exe
+C:\Users\Bright\source\repos\RentalAppTutorial\obj\Debug\RentalAppTutorial.xml
+C:\Users\Bright\source\repos\RentalAppTutorial\obj\Debug\RentalAppTutorial.pdb
